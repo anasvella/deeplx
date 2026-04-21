@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node server.js",
     "zip": "zip -r dist.zip ./"
+  
+  "type": "module"
+
   },
   "keywords": [
     "deeplx",
@@ -24,6 +27,4 @@
     "random-int": "^3.0.0"
   }
 }
-{
-  "type": "module"
-}
+
