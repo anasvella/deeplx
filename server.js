@@ -1,5 +1,5 @@
 const express = require('express');
-const chalk = await import('chalk').default;
+const chalk = require('chalk').default;
 
 const args = process.argv.slice(2);
 const isDebugMode = args.includes('-d') || args.includes('--debug');
