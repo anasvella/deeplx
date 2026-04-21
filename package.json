@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "DeepLX Free API for serverless",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js",
     "zip": "zip -r dist.zip ./"
