@@ -7,7 +7,6 @@
     "start": "node server.js",
     "zip": "zip -r dist.zip ./"
   
-  "type": "module"
 
   },
   "keywords": [
